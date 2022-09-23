@@ -93,7 +93,7 @@ i:hover {
         font-size: 2vw;
     }
     p {
-        font-size: 1vw;
+        font-size: 0.8rem;
     }
 }
 @media (max-width: 1000px) {
